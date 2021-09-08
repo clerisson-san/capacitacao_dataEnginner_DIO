@@ -13,7 +13,7 @@
 
 [Bem-vindo à DIO](https://www.notion.so/Bem-vindo-DIO-b7c86ee6bd0c4c2bb3f8661e4c317fe4)
 
-[Introdução ao Git e ao Github](https://www.notion.so/Introdu-o-ao-Git-e-ao-Github-4d46c37762db4e92b4aaf4b5de2e37fb)
+[Introdução ao Git e ao Github](https://github.com/clerisson-san/capacitacao_dataEnginner_DIO_at_GITHUB/tree/master/cursos/curso%2002%20-%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub)
 
 [Linux: A introdução ao Sistema Operacional](https://www.notion.so/Linux-A-introdu-o-ao-Sistema-Operacional-1d1632e8a67e43e1b1bbd14f6daabb3f)
 

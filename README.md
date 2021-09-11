@@ -1,5 +1,5 @@
 # Material e referências da capacitação bootcamp Banco Carrefour Data Engineer
-
+![image](https://user-images.githubusercontent.com/67614411/132965933-18210fd3-7349-4aa3-b293-722a222771d8.png)
 
 ## By DIO - Digital Innovation One
 ### Finalizado em **31/08/2021**

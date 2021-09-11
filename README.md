@@ -1,4 +1,4 @@
-# Diretório contendo material e referências da capacitação bootcamp Banco Carrefour Data Engineer
+# Material e referências da capacitação bootcamp Banco Carrefour Data Engineer
 
 
 ## By DIO - Digital Innovation One
